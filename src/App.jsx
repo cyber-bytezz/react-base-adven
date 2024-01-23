@@ -1,14 +1,10 @@
-import Card from "./Card"
+import  component  from "./componenet"
 
-function App() {
-    return(
-      <>
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      </>
-    );
+
+function App (){
+  return(
+    <App/>
+  )
 }
 
-export default App
+export default component;
