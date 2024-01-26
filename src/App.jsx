@@ -1,10 +1,10 @@
 import  component  from "./componenet"
-
+import colourpicker from "./colourpick";
 
 function App (){
   return(
-    <App/>
+    <colourpicker />
   )
 }
 
-export default component;
+export default colourpicker;
